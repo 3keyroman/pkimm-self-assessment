@@ -15,7 +15,7 @@ relevance:
           guidance: |
             Strategy and vision form the foundation for quantum-safe transition. Without executive sponsorship recognizing the quantum threat, PQC migration will lack resources and priority. The Dutch Migration Handbook identifies organizational personas ranging from 'unaware' to 'frontrunner,' with most European organizations currently in early awareness stages. Strategic planning must address the Mosca inequality: if data sensitivity lifespan plus migration time exceeds time until cryptographically relevant quantum computers (CRQC), action is required now.
           assessment: |
-            Key Probes:
+            aaKey Probes:
               - Can executives articulate the quantum threat to PKI operations?
               - Is PQC mentioned in strategic planning documents?
               - Has the organization assessed its Mosca inequality position?
