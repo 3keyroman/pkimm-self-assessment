@@ -21,14 +21,17 @@ relevance:
               - Has the organization assessed its Mosca inequality position?
               - What regulatory deadlines has the organization identified as applicable?
               - Is budget allocated specifically for PQC activities?
+            
             Critical Transitions:
               - Level 2→3: 'Awareness to Action' - formal strategy incorporation, executive sponsorship extended, working group established
               - Level 4→5: 'Execution to Leadership' - competitive positioning, ecosystem contribution, crypto-agility as ongoing capability
+            
             Warning Signs:
               - 'We'll address it when vendors are ready' - vendor timelines may not align with regulatory requirements
               - No executive able to discuss quantum risk - indicates awareness gap at leadership level
               - PQC treated as purely technical matter - missing governance and strategic dimensions
               - Assuming extended timeline - UK NCSC sets migration milestones through 2028/2031/2035; financial sector guidance warns risk could materialize within 10-15 years or sooner
+            
             Evidence Examples by Level:
               - Level 2: Email/meeting notes showing PQC discussed; informal awareness materials
               - Level 3: Board presentation on quantum risk; PQC working group charter; budget line item for PQC; Mosca analysis document
@@ -99,12 +102,14 @@ relevance:
               - Can the organization produce a CBOM?
               - How does Key Management Policy address PQC key sizes and HSM requirements?
               - How are regional regulatory differences (EU hybrid vs US pure PQ) addressed?
+            
             Warning Signs:
               - CP/CPS last updated before August 2024 (pre-NIST standardization)
               - Algorithm list lacks deprecation dates
               - 'We'll update when vendors support PQC' - reactive rather than proactive stance
               - No awareness of regional requirement differences
               - CBOM mentioned but no artifacts produced
+            
             Evidence Examples by Level:
               - Level 2: Internal memo acknowledging CP/CPS needs updating; informal algorithm inventory
               - Level 3: CP/CPS amendment project plan; approved algorithm list with PQC entries and deprecation dates; CBOM generation tool deployed; hybrid strategy decision document
